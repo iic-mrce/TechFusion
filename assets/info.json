@@ -1,0 +1,466 @@
+[
+    {
+        "batchNo": 1,
+        "roomNo": "B3-316",
+        "participants": [
+            {
+                "HTNO1": "23Q91A6660",
+                "Name1": "Valluri Suneel Kumar Reddy",
+                "HTNO2": "23Q91A6650",
+                "Name2": "Puttana Avinash Kumar Reddy",
+                "Class": "II CSM A",
+                "CourseCode": "C1-02. Pharmaceutical Drug Manufacturing"
+            },
+            {
+                "HTNO1": "23Q91A6640",
+                "Name1": "Marikanti Nitish",
+                "HTNO2": "23Q91A6641",
+                "Name2": "Maruge Shrish",
+                "Class": "II CSM A",
+                "CourseCode": "C1-03. Petroleum Refining"
+            },
+            {
+                "HTNO1": "23Q91A6607",
+                "Name1": "Budde Saketh Varma",
+                "HTNO2": "23Q91A6603",
+                "Name2": "Ambaripeta Sri Charan",
+                "Class": "II CSM A",
+                "CourseCode": "C1-04. Corrosion Prevention"
+            },
+            {
+                "HTNO1": "23Q91A6622",
+                "Name1": "Garapati Juhitharamya",
+                "HTNO2": "23Q91A6601",
+                "Name2": "Addanki Pallavi",
+                "Class": "II CSM A",
+                "CourseCode": "C1-06. Food Preservation"
+            },
+            {
+                "HTNO1": "23Q91A6651",
+                "Name1": "R Srinidhi",
+                "HTNO2": "23Q91A6655",
+                "Name2": "Sreeloju Santhoshi",
+                "Class": "II CSM A",
+                "CourseCode": "C1-08. Biodegradable Plastics"
+            },
+            {
+                "HTNO1": "23Q91A6639",
+                "Name1": "Manikala Bhavya Sri",
+                "HTNO2": "23Q91A6657",
+                "Name2": "Tangallapally Deepthi",
+                "Class": "II CSM A",
+                "CourseCode": "C1-12. Chemical Sensors"
+            },
+            {
+                "HTNO1": "23Q91A6621",
+                "Name1": "Ganji Sowmya",
+                "HTNO2": "23Q91A6609",
+                "Name2": "Chikati Deekshitha",
+                "Class": "II CSM A",
+                "CourseCode": "C1-20. Wastewater Treatment"
+            },
+            {
+                "HTNO1": "24Q95A6602",
+                "Name1": "Kommu Manasa",
+                "HTNO2": "23Q91A6636",
+                "Name2": "Laggala Anjali",
+                "Class": "II CSM A",
+                "CourseCode": "C1-47. Additive Manufacturing (3D Printing)"
+            },
+            {
+                "HTNO1": "23Q91A6658",
+                "Name1": "Thapa Laxman",
+                "HTNO2": "23Q91A6615",
+                "Name2": "Dudapaka Indra Prasad",
+                "Class": "II CSM A",
+                "CourseCode": "C2-12. Ultrasound Imaging"
+            },
+            {
+                "HTNO1": "23Q91A6652",
+                "Name1": "Rameshwaram Akash",
+                "HTNO2": "23Q91A6642",
+                "Name2": "Mukku Matthew Samuel",
+                "Class": "II CSM A",
+                "CourseCode": "C2-13. Acoustic Engineering"
+            },
+            {
+                "HTNO1": "23Q91A6616",
+                "Name1": "Eesha M Kalyan Shetty",
+                "HTNO2": "23Q91A6661",
+                "Name2": "Vipparthi Subbu Snehitha",
+                "Class": "II CSM A",
+                "CourseCode": "C2-31. Satellite Communications"
+            },
+            {
+                "HTNO1": "23Q91A6634",
+                "Name1": "Kojjavarapu Akshaya",
+                "HTNO2": "23Q91A6619",
+                "Name2": "Etikala Archana",
+                "Class": "II CSM A",
+                "CourseCode": "C2-41. Smart Materials"
+            },
+            {
+                "HTNO1": "23Q91A6631",
+                "Name1": "K Akhil",
+                "HTNO2": "23Q91A6633",
+                "Name2": "Kevin Paul K",
+                "Class": "II CSM A",
+                "CourseCode": "C2-43. Hyperloop Transportation"
+            },
+            {
+                "HTNO1": "23Q91A6632",
+                "Name1": "Kamineni Sreeram",
+                "HTNO2": "23Q91A6624",
+                "Name2": "Gunturu Nandu",
+                "Class": "II CSM A",
+                "CourseCode": "P1-05. Battery Development"
+            },
+            {
+                "HTNO1": "23Q91A6648",
+                "Name1": "Datla Prasheel Varma",
+                "HTNO2": "23Q91A6605",
+                "Name2": "Bommena Rupesh",
+                "Class": "II CSM A",
+                "CourseCode": "P2-02. Laser Surgery"
+            },
+            {
+                "HTNO1": "23Q91A6645",
+                "Name1": "Nidhi Thota",
+                "HTNO2": "23Q91A6613",
+                "Name2": "Dharanikota Naga Lochani",
+                "Class": "II CSM A",
+                "CourseCode": "P2-29. Holography"
+            },
+            {
+                "HTNO1": "23Q91A6637",
+                "Name1": "Mailaram Saivardhan",
+                "HTNO2": "23Q91A6627",
+                "Name2": "Jayesh Kadam",
+                "Class": "II CSM A",
+                "CourseCode": "P2-31. Satellite Communications"
+            },
+            {
+                "HTNO1": "23Q91A6617",
+                "Name1": "Elaboina Nithya",
+                "HTNO2": "23Q91A6618",
+                "Name2": "Enugu Hema",
+                "Class": "II CSM A",
+                "CourseCode": "P2-32. Radiography in Non-Destructive Testing"
+            },
+            {
+                "HTNO1": "23Q91A6608",
+                "Name1": "Chava Pavan Rohith",
+                "HTNO2": "23Q91A6610",
+                "Name2": "Dasari Shyam Kiran Rahul Kumar",
+                "Class": "II CSM A",
+                "CourseCode": "P2-43. Hyperloop Transportation"
+            },
+            {
+                "HTNO1": "23Q91A6646",
+                "Name1": "Nyathari Madhav",
+                "HTNO2": "23Q91A6644",
+                "Name2": "Nareddy Keshava Reddy",
+                "Class": "II CSM A",
+                "CourseCode": "P2-46. Artificial Intelligence in Physics Simulations"
+            }
+        ],
+        "coordinators": [
+            "G NIKHIL",
+            "AISHI JAIN",
+            "E DEEPIKA",
+            "R DILEEP KUMAR",
+            "S VIJETHA",
+            "M AMARAKUMAR",
+            "B KOWSHIK"
+        ]
+    },
+    {
+        "batchNo": 2,
+        "roomNo": "B5-003",
+        "participants": [
+            {
+                "HTNO1": "23Q91A6672",
+                "Name1": "Chavan Rasagnya",
+                "HTNO2": "23Q91A6674",
+                "Name2": "Dandu Madhumathi",
+                "Class": "II CSM B",
+                "CourseCode": "C1-09. Textile Manufacturing"
+            },
+            {
+                "HTNO1": "23Q91A6686",
+                "Name1": "Kanaboina Sai",
+                "HTNO2": "23Q91A6686",
+                "Name2": "Kanaboina Sai",
+                "Class": "II CSM B",
+                "CourseCode": "C1-07. Air Quality Control"
+            },
+            {
+                "HTNO1": "23Q91A66A0",
+                "Name1": "Peddada Lavanya",
+                "HTNO2": "23Q91A66A4",
+                "Name2": "Ponugoti Gowthami",
+                "Class": "II CSM B",
+                "CourseCode": "C1-21. Explosives Engineering"
+            },
+            {
+                "HTNO1": "23Q91A6688",
+                "Name1": "Koppisetti Bharathi Devi",
+                "HTNO2": "23Q91A6690",
+                "Name2": "Kurakula Harshitha",
+                "Class": "II CSM B",
+                "CourseCode": "C1-29. Environmental Remediation"
+            },
+            {
+                "HTNO1": "23Q91A6698",
+                "Name1": "Nethikunta Maheshwari",
+                "HTNO2": "23Q91A66B3",
+                "Name2": "Sunkari Sindhu",
+                "Class": "II CSM B",
+                "CourseCode": "C1-41. Bioplastic Production"
+            },
+            {
+                "HTNO1": "23Q91A6681",
+                "Name1": "Hoter Kar Rakesh",
+                "HTNO2": "23Q91A6696",
+                "Name2": "Mupade Virendra Venkatesh",
+                "Class": "II CSM B",
+                "CourseCode": "C2-06. Renewable Energy (Solar Panels)"
+            },
+            {
+                "HTNO1": "23Q91A6670",
+                "Name1": "Boorsuhwanth Kumar",
+                "HTNO2": "23Q91A6671",
+                "Name2": "Ch Vamshi",
+                "Class": "II CSM B",
+                "CourseCode": "C2-15. GPS Technology"
+            },
+            {
+                "HTNO1": "23Q91A66B0",
+                "Name1": "Shaik Shahid Afridhi",
+                "HTNO2": "23Q91A66A8",
+                "Name2": "Salugu Sandeep",
+                "Class": "II CSM B",
+                "CourseCode": "C2-46. Artificial Intelligence in Physics Simulations"
+            },
+            {
+                "HTNO1": "23Q91A66A7",
+                "Name1": "Sailoju Lipika",
+                "HTNO2": "23Q91A6692",
+                "Name2": "Male Vaishnavi",
+                "Class": "II CSM B",
+                "CourseCode": "P1-06. Food Preservation"
+            },
+            {
+                "HTNO1": "24Q95A6606",
+                "Name1": "Ch. Jonathan",
+                "HTNO2": "23Q91A6699",
+                "Name2": "Pariserla Naveeth Kumar",
+                "Class": "II CSM B",
+                "CourseCode": "P1-10. Solar Cell Fabrication"
+            },
+            {
+                "HTNO1": "23Q91A6673",
+                "Name1": "Chinthala Pavan Kumar",
+                "HTNO2": "23Q91A6682",
+                "Name2": "Islavath Karthik",
+                "Class": "II CSM B",
+                "CourseCode": "P1-49. Semiconductor Processing"
+            },
+            {
+                "HTNO1": "23Q91A6666",
+                "Name1": "Bhuneti Harshavardhan Reddy",
+                "HTNO2": "23Q91A6693",
+                "Name2": "Maloth Durgesh",
+                "Class": "II CSM B",
+                "CourseCode": "P2-16. Aerodynamics in Vehicle Design"
+            },
+            {
+                "HTNO1": "23q91a66b2",
+                "Name1": "Shivampet Likith",
+                "HTNO2": "23q91a66a9",
+                "Name2": "Sampangi Shivaram",
+                "Class": "II CSM B",
+                "CourseCode": "P2-19. Nanotechnology"
+            },
+            {
+                "HTNO1": "24Q95A6608",
+                "Name1": "Yadav Praveen",
+                "HTNO2": "23Q91A6685",
+                "Name2": "Jangam Pranay Kumar",
+                "Class": "II CSM B",
+                "CourseCode": "P2-33. Electromagnetic Shielding"
+            }
+        ],
+        "coordinators": [
+            "N KEETHANA",
+            "D POOJA",
+            "L AISHWARYA",
+            "P.AKSHAY KUMAR"
+        ]
+    },
+    {
+        "batchNo": 3,
+        "roomNo": "B5-004",
+        "participants": [
+            {
+                "HTNO1": "23Q91A66C7",
+                "Name1": "Bhavani Muni",
+                "HTNO2": "23Q91A66E3",
+                "Name2": "Golewar Akshitha",
+                "Class": "II CSM C",
+                "CourseCode": "C1-01. Water Treatment and Purification"
+            },
+            {
+                "HTNO1": "23Q91A66D7",
+                "Name1": "Douda Varshith",
+                "HTNO2": "23Q91A66E8",
+                "Name2": "Jogyala Sai Chandra",
+                "Class": "II CSM C",
+                "CourseCode": "C1-15. Polymer Chemistry"
+            },
+            {
+                "HTNO1": "23Q91A66G6",
+                "Name1": "Parsa Jashwanth",
+                "HTNO2": "23Q91A66I3",
+                "Name2": "Velpula Naresh",
+                "Class": "II CSM C",
+                "CourseCode": "C1-05. Battery Development"
+            },
+            {
+                "HTNO1": "23Q91A66D0",
+                "Name1": "Burgupelli Utkarsh",
+                "HTNO2": "23Q91A66F2",
+                "Name2": "Madaka Varaprasad",
+                "Class": "II CSM C",
+                "CourseCode": "C1-10. Solar Cell Fabrication"
+            },
+            {
+                "HTNO1": "23Q91A66E6",
+                "Name1": "Gudlanarva Tarun",
+                "HTNO2": "23Q91A66D1",
+                "Name2": "Burri Rakesh Reddy",
+                "Class": "II CSM C",
+                "CourseCode": "C1-11. Adhesive Production"
+            },
+            {
+                "HTNO1": "23Q91A66F0",
+                "Name1": "Kandula Rakshitha",
+                "HTNO2": "23Q91A66I0",
+                "Name2": "Thangella Varshini",
+                "Class": "II CSM C",
+                "CourseCode": "C2-02. Laser Surgery"
+            },
+            {
+                "HTNO1": "23Q91A66E7",
+                "Name1": "Jella Manogna",
+                "HTNO2": "23Q91A66C3",
+                "Name2": "Akunuru Vyshnavi",
+                "Class": "II CSM C",
+                "CourseCode": "C2-07. Magnetic Levitation (Maglev Trains)"
+            },
+            {
+                "HTNO1": "23Q91A66F3",
+                "Name1": "Madipelly Srimaye",
+                "HTNO2": "23Q91A66H5",
+                "Name2": "Ravula Ram Charan",
+                "Class": "II CSM C",
+                "CourseCode": "C2-08. X-ray Imaging"
+            },
+            {
+                "HTNO1": "23Q91A66G3",
+                "Name1": "Nemuri Nithin",
+                "HTNO2": "23Q91A66G4",
+                "Name2": "Pajjuri Kamal Karthik",
+                "Class": "II CSM C",
+                "CourseCode": "C2-16. Aerodynamics in Vehicle Design"
+            },
+            {
+                "HTNO1": "23Q91A66H6",
+                "Name1": "Rudroju Deepika",
+                "HTNO2": "23Q91A66C8",
+                "Name2": "Bhimagani Abhinaya",
+                "Class": "II CSM C",
+                "CourseCode": "C2-11. Radiation Therapy"
+            },
+            {
+                "HTNO1": "23Q91A66H9",
+                "Name1": "Tenugu Lavanya",
+                "HTNO2": "23Q91A66E5",
+                "Name2": "Gone Vivek Gagan",
+                "Class": "II CSM C",
+                "CourseCode": "C2-17. Wind Turbines"
+            },
+            {
+                "HTNO1": "23Q91A66C6",
+                "Name1": "Barla Chandu",
+                "HTNO2": "23Q91A66F7",
+                "Name2": "Mohammed Nawaz",
+                "Class": "II CSM C",
+                "CourseCode": "C2-19. Nanotechnology"
+            },
+            {
+                "HTNO1": "23Q91A66H7",
+                "Name1": "Nachiketh Ryagalla",
+                "HTNO2": "23Q91A66H8",
+                "Name2": "T Anil Kumar",
+                "Class": "II CSM C",
+                "CourseCode": "C2-20. Microwave Engineering"
+            },
+            {
+                "HTNO1": "24Q95A6609",
+                "Name1": "Shivani Adhi",
+                "HTNO2": "24Q95A6612",
+                "Name2": "Jyoshna",
+                "Class": "II CSM C",
+                "CourseCode": "C2-21. Electric Motors"
+            },
+            {
+                "HTNO1": "23Q91A66E1",
+                "Name1": "Gandikota Naveen",
+                "HTNO2": "23Q91A66H1",
+                "Name2": "Ramireddy Leela Krishna Mohan",
+                "Class": "II CSM C",
+                "CourseCode": "C2-22. Superconductivity"
+            },
+            {
+                "HTNO1": "23Q91A66D9",
+                "Name1": "Gadde Sharath Chandra Chowdary",
+                "HTNO2": "23Q91A66F8",
+                "Name2": "Mohammed Taaha Tahseem",
+                "Class": "II CSM C",
+                "CourseCode": "P2-15. GPS Technology"
+            },
+            {
+                "HTNO1": "23Q91A66E9",
+                "Name1": "Kadavilla Anmol",
+                "HTNO2": "23Q91A66D3",
+                "Name2": "Chinnamola Vishnu Vardhan Kumar",
+                "Class": "II CSM C",
+                "CourseCode": "P2-27. Cryogenics"
+            },
+            {
+                "HTNO1": "23Q91A66C4",
+                "Name1": "Aravind Singh Panwar",
+                "HTNO2": "23Q91A66F4",
+                "Name2": "Maridu Nagamani",
+                "Class": "II CSM C",
+                "CourseCode": "P2-34. Smart Grids"
+            },
+            {
+                "HTNO1": "23Q91A66C9",
+                "Name1": "Biradar Mayuri",
+                "HTNO2": "23Q91A66H4",
+                "Name2": "Rasuri Harshavardhini",
+                "Class": "II CSM C",
+                "CourseCode": "P2-41. Smart Materials"
+            }
+        ],
+        "coordinators": [
+            "M NIKHILESHWAR",
+            "K VINOD",
+            "B SUPRIYA",
+            "B HARIKRISHNA",
+            "NIHARIKA"
+        ]
+    }
+]
